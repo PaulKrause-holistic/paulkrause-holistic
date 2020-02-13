@@ -1,4 +1,6 @@
-Privacy Policy of Holistic Wealth
+<h1>Privacy Policy of Holistic Wealth</h1>
+
+
 This Application collects some Personal Data from its Users.
 
 
